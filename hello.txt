@@ -6,5 +6,5 @@ hello,xiaoxi! hello,git!
 hello,xiaoxi! hello,git!
 hello,xiaoxi! hello,git!
 hello,xiaoxi! hello,git!
-hello,xiaoxi! hello,git! 
 hello,xiaoxi! hello,git! master test
+hello,xiaoxi! hello,git! hot-fix test
